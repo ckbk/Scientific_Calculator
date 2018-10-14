@@ -1,0 +1,10 @@
+Project by CAO Kha Bao Khanh - 2017
+
+This is a simulation of a scientific calculator that I did around 10/2017 for a university project. 
+To compile simply use gcc -std=c99 *.c -o calculator and execute using ./calculator
+The calculator has 4 main mode of operations:   
+  + single operations: like 1+1 or cos(60)
+  + complex number mode: doing operations on complex numbers
+  + matrix arithmetics: add, multiply matrices as well as finding their determinant and inverse
+  + function generator: to store a specific function f(x) and then easily calculate a range of value for x, or finding its intergral and derivative
+There is syntax guide when the program is launched. 
