@@ -6,5 +6,5 @@ The calculator has 4 main mode of operations:
   + single operations: like 1+1 or cos(60)
   + complex number mode: doing operations on complex numbers
   + matrix arithmetics: add, multiply matrices as well as finding their determinant and inverse
-  + function generator: to store a specific function f(x) and then easily calculate a range of value for x, or finding its intergral and derivative
+  + function generator: to store a specific function f(x) and then easily calculate a range of value for x, or finding its integral and derivative
 There is syntax guide when the program is launched. 
